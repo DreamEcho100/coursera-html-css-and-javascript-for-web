@@ -3,10 +3,14 @@
 # HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)
 
 This repository contains my solutions to the assignments of the Coursera course
-["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
+["HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University](https://dreamecho100.github.io/coursera-html-css-and-javascript-for-web/).
 
-## Assignments
+## Assignments Solutions
 
 ### Module 2
 
-- [Solution](https://github.com/DreamEcho100/coursera-html-css-and-javascript-for-web/tree/main/module2-solution)
+- [Solution](https://dreamecho100.github.io/coursera-html-css-and-javascript-for-web/module2-solution/index.html)
+
+### Module 3
+
+- [Solution](https://dreamecho100.github.io/coursera-html-css-and-javascript-for-web/module3-solution/index.html)
