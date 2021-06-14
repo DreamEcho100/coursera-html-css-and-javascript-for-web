@@ -14,3 +14,7 @@ This repository contains my solutions to the assignments of the Coursera course
 ### Module 3
 
 - [Solution](https://dreamecho100.github.io/coursera-html-css-and-javascript-for-web/module3-solution/index.html)
+
+### Module 4
+
+- [Solution](https://dreamecho100.github.io/coursera-html-css-and-javascript-for-web/module4-solution/index.html)
